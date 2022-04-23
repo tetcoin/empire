@@ -1,12 +1,12 @@
-# Parity Bridges Common
+# Empire
 
-This is a collection of components for building bridges.
+This is a collection of components for building empires using bridges.
 
-These components include Substrate pallets for syncing headers, passing arbitrary messages, as well
+These components include Tetcore pallets for syncing headers, passing arbitrary messages, as well
 as libraries for building relayers to provide cross-chain communication capabilities.
 
 Three bridge nodes are also available. The nodes can be used to run test networks which bridge other
-Substrate chains or Ethereum Proof-of-Authority chains.
+Tetcore chains or Ethereum Proof-of-Authority chains.
 
 🚧 The bridges are currently under construction - a hardhat is recommended beyond this point 🚧
 
